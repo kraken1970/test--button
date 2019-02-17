@@ -1,0 +1,32 @@
+{
+  "name": "MSCode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "autoprefixer": "^9.4.7",
+    "postcss-modules": "^1.4.1",
+    "sass": "^1.17.0"
+  },
+  "modules": true,
+  "plugins": {
+    "autoprefixer": {
+      "grid": true
+    }
+  },
+  "browserslist": [
+    "last 2 version",
+    "> 1%",
+    "maintained node versions",
+    "not dead"
+  ],
+  "devDependencies": {
+    "cssnano": "^4.1.10"
+  }
+}
