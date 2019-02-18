@@ -3,3 +3,5 @@
 
 2. run/devevopment :
    parcel src/index.html
+
+3. Server running at http://localhost:1234    
